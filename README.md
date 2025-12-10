@@ -47,7 +47,7 @@ This portfolio showcases Aryan Kaushal - an aspiring Robotics Engineer based in 
 
 ## Contact Links
 
-- **Email**: aryankaushal108@gmail.com
+- **Email**: kaushal.aryandelhi@gmail.com
 - **GitHub**: [github.com/Ghostmanever](https://github.com/Ghostmanever)
 - **YouTube**: [@GHOSTmanever](https://www.youtube.com/@GHOSTmanever)
 - **Location**: Riga, Latvia
